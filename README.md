@@ -1,4 +1,4 @@
-# Talent Matching and Ranking System (Potential Talents)
+# RAG AI Talent Matching and Ranking System (Potential Talents)
 ### **H8ZdgkjygVUSOdtd**
 ## Project Background
 
