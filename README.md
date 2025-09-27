@@ -1,4 +1,4 @@
-# Talent Matching and Ranking System
+# Talent Matching and Ranking System (Potential Talents)
 ### **H8ZdgkjygVUSOdtd**
 ## Project Background
 
